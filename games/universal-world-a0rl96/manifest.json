@@ -1,0 +1,15 @@
+{
+ "app": "gacha-game-maker",
+ "kind": "pub",
+ "v": 1,
+ "title": "Allstars Clash",
+ "sub": "UNIVERSAL WORLD",
+ "ver": 1,
+ "at": 1792175628254,
+ "build": "2026.10.16.2",
+ "notes": "Beta test.",
+ "images": 32,
+ "chapters": 2,
+ "events": 5,
+ "chars": 31
+}
